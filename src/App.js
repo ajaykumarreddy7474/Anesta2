@@ -92,7 +92,7 @@ function App() {
        
     <div class="title-name1">
     <h1>Groups</h1>
-    <div class="main-line1">.</div>
+    <div class="main-line1"></div>
 </div>
 <div class="card-group1">
 <div class="container1">
