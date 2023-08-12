@@ -114,7 +114,7 @@ function App() {
         <h1>My Groups <button class="button-groups">3</button></h1> 
       
         </div>
-        <div class="main-line2">.</div>
+        <div class="main-line2"></div>
     </div>
    </div>
     <div class="input-container2">
