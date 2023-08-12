@@ -226,14 +226,14 @@ function App() {
     <div class="card-title">
       <div class="container">
         <div class="menu">
-          <div class="menu-item1"><div class="icon"><span class="material-symbols-outlined">home</span><h1>Home Pages</h1></div></div>
+          <div class="menu-item1"><div class="icon"><span class="material-symbols-outlined">home</span><h1>Home Pages<span id='next' class="material-symbols-outlined">navigate_next</span></h1></div></div>
           
            <div  class="main-head-community "><h4>COMMUNITY</h4></div>     
 
           <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">receipt_long</span><h1>Knowledge base</h1></div></div>
           <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">send </span><h1>Activity</h1></div></div>
           <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">chat </span><h1>Messages</h1></div></div>
-          <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">group </span><h1>Members</h1></div></div>
+          <div class="menu-item"><div class="icon"><span id='members' class="material-symbols-outlined">group </span><h1 id='members'>Members<span id='next2' class="material-symbols-outlined">navigate_next</span></h1></div></div>
           <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">diversity_3</span><h1>Forums</h1></div></div>
           <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">calendar_month </span><h1>Events</h1></div></div>
           <div class="menu-item"><div class="icon"><span class="material-symbols-outlined">description </span><h1>documents</h1></div></div>

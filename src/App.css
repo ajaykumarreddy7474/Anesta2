@@ -747,7 +747,6 @@ h4{
   width: 60px;
   position: absolute;
   margin-top: -25px;
-  
   margin-left: 45px;
   font-family: 'poppins';
   font-weight: normal;
@@ -850,10 +849,31 @@ margin-left: 0px;
   position: absolute;
   margin-left: -15px;
 }
+.menu-item1 h1{
+  margin-top: 5px;
+  margin-left: 170px;
+  position: absolute;
+}
+#next{
+  margin-top:-8px;
+  position: absolute;
+  margin-left: 25px;
+}
 .menu-item1 span{
     margin-left: 2px;
     color: gray;
   }
+
+  #members{
+    color: blue;
+  }
+  #next2{
+    margin-top:-9px;
+    position: absolute;
+    margin-left: 25px;
+  }
+
+
 
   .main-head-community h4{
     position: absolute;
