@@ -210,7 +210,7 @@ function App() {
        <span><img className="profile-pic" style={{backgroundImage: `url(${logo3})`,backgroundSize: 'cover',}} alt="Profile 1"></img><h2>lol,is it ? Are you okay with it? Maybe it was waste.</h2> <h6>by rosy</h6></span>
         <span><img className="profile-pic" style={{backgroundImage: `url(${logo5})`,backgroundSize: 'cover',}} alt="Profile 2"></img><h2>golden rules for the designs are best.</h2><h6>by emma</h6></span>
         <span><img className="profile-pic" style={{backgroundImage: `url(${logo9})`,backgroundSize: 'cover',}} alt="Profile 3"></img><h2>Photographers are  always winners here.</h2><h6>by steven</h6></span>
-        <span><img className="profile-pic" style={{backgroundImage: `url(${logo10})`,backgroundSize: 'cover',}} alt="Profile 4"></img>+<h2>Does startups are succesful here?</h2><h6>by john</h6></span> 
+        <span><img className="profile-pic" style={{backgroundImage: `url(${logo10})`,backgroundSize: 'cover',}} alt="Profile 4"></img><h2>Does startups are succesful here?</h2><h6>by john</h6></span> 
       </div>
       </div>
       </div>
